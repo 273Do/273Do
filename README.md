@@ -3,7 +3,8 @@
 > 映像🎥やwebツール🔮を作ってる関西の大学生です．  
 > 趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲．
 
-<img  height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=273Do&theme=github_dark"><img  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=273Do&theme=github_dark&card_width=200&langs_count=10&layout=compact&exclude_repo=OnlineForm,CreditChecker,FormulaGenerator,BracketsJudgementTool">
+<img  height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=273Do&theme=github_dark">
+<!-- <img  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=273Do&theme=github_dark&card_width=200&langs_count=10&layout=compact&exclude_repo=OnlineForm,CreditChecker,FormulaGenerator,BracketsJudgementTool"> -->
 
 <!--ロゴをクリックすると移動できます．
 
