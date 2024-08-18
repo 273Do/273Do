@@ -35,6 +35,14 @@ I'm 273* and I like Tuna Sands 🥪. I'm a university student in Kansai who make
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
   <img alt="Arc" src="https://img.shields.io/badge/-Arc-FCBFBD?style=flat-square&logo=Arc&logoColor=black" />
 </p>
+
+
+## 🔗 Link
+📇 Portfolio 👉 [https://www.273doworks.com](https://www.273doworks.com)  
+📗 Qiita 👉 [https://qiita.com/273Do](https://qiita.com/273Do)  
+🎥 Youtube 👉 [https://www.youtube.com/@imperiRwrath](https://www.youtube.com/@imperiRwrath)
+
+
 <!--### ﾂﾅｻﾝﾄﾞが好きなので 273\*です🥪．
 
 > 映像🎥やwebツール🔮を作ってる関西の大学生です．  
