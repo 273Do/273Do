@@ -1,4 +1,4 @@
-## Hey There! 👋
+## 👋 Hey There!
 
 I'm 273* and I like Tuna Sands 🥪. I'm a university student in Kansai who makes videos 🎥 and web apps/tools 🔮. My hobbies are full-stack development 🚩, piano 🎹 and cycling 🚲.  
 ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
