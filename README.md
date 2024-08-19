@@ -45,7 +45,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 ## 🔗 Link
 📇 Portfolio 👉 [https://www.273doworks.com](https://www.273doworks.com)  
 📗 Qiita 👉 [https://qiita.com/273Do](https://qiita.com/273Do)  
-🎥 Youtube 👉 [https://www.youtube.com/@imperiRwrath](https://www.youtube.com/@imperiRwrath)
+🎥 YouTube 👉 [https://www.youtube.com/@imperiRwrath](https://www.youtube.com/@imperiRwrath)
 
 
 <!--### ﾂﾅｻﾝﾄﾞが好きなので 273\*です🥪．
