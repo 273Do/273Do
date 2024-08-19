@@ -44,6 +44,10 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
   <img
 </div>
+  
+✍ Leaning  
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
 
 ## 🔗 Link
 📇 Portfolio 👉 [https://www.273doworks.com](https://www.273doworks.com)  
