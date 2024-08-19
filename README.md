@@ -27,11 +27,13 @@ I'm 273* and I like Tuna Sands 🥪. I'm a university student in Kansai who make
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=white&style=popout-square">
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=popout-square">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=popout-square">
+  <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00.svg?logo=googlecolab&logoColor=white&style=popout-square">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&logoColor=white&style=popout-square">
-  <img alt="Arduino" src="https://img.shields.io/badge/-arduino-00878F.svg?logo=arduino&logoColor=white&style=popout-square">
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F.svg?logo=arduino&logoColor=white&style=popout-square">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
