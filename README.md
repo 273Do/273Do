@@ -35,6 +35,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00.svg?logo=googlecolab&logoColor=white&style=popout-square">
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F.svg?logo=arduino&logoColor=white&style=popout-square">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white" />
