@@ -11,21 +11,24 @@ I'm 273* and I like Tuna Sands 🥪. I'm a university student in Kansai who make
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=popout-square">
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020.svg?logo=expo&style=popout-square">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000.svg?logo=shadcnui&logoColor=white&style=popout-square">
+  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-0055FF.svg?logo=framer&logoColor=white&style=popout-square">
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&logoColor=white&style=popout-square">
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748.svg?logo=prisma&logoColor=white&style=popout-square">
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&logoColor=white&style=popout-square">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=white&style=popout-square">
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=popout-square">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=popout-square">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&logoColor=white&style=popout-square">
+  <img alt="Arduino" src="https://img.shields.io/badge/-arduino-00878F.svg?logo=arduino&logoColor=white&style=popout-square">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
