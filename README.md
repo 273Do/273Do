@@ -29,7 +29,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img alt="SWR" src="https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=swr&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&logoColor=white&style=popout-square">
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&logoColor=white&style=popout-square">
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00.svg?logo=googlecolab&logoColor=white&style=popout-square">
@@ -39,6 +39,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
