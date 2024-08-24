@@ -23,13 +23,14 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-0055FF.svg?logo=framer&logoColor=white&style=popout-square">
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020.svg?logo=expo&style=popout-square">
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748.svg?logo=prisma&logoColor=white&style=popout-square">
+  <img alt="SWR" src="https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=swr&logoColor=white" />
+  <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A.svg?logo=i18next&logoColor=white&style=popout-square">
 <!--</div>
 <div>-->
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="SWR" src="https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=swr&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&logoColor=white&style=popout-square">
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&logoColor=white&style=popout-square">
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00.svg?logo=googlecolab&logoColor=white&style=popout-square">
