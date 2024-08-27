@@ -44,7 +44,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-000?style=flat&logo=Adobe%20XD&logoColor=FF61F6" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
-  <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffffff" />
+  <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffdd33" />
 </div>
 
 <!--<div>
