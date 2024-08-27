@@ -4,7 +4,9 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️
 
-<!--<div>
+## 🧰 Languages and Tools
+
+<div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=f7df1c" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=007ACC" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=3776AB" />
@@ -43,18 +45,16 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-000?style=flat&logo=Adobe%20XD&logoColor=FF61F6" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffffff" />
-</div>-->
+</div>
 
-
-<div>
+<!--<div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&style=popout-square">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&logoColor=white&style=popout-square">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&logoColor=white&style=popout-square">
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-4EAA25.svg?logo=gnubash&logoColor=white&style=popout-square">
-<!--</div>
-<div>-->
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=popout-square">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -67,8 +67,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748.svg?logo=prisma&logoColor=white&style=popout-square">
   <img alt="SWR" src="https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=swr&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A.svg?logo=i18next&logoColor=white&style=popout-square">
-<!--</div>
-<div>-->
+
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
@@ -88,11 +87,16 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
   <img
-</div>
+</div>-->
   
 ✍ Leaning  
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+<!--<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />-->
+
+<div>
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxtdotjs&logoColor=00DC82" />
+</div>
 
 ## 🔗 Link
 📇 Portfolio 👉 [https://www.273doworks.com](https://www.273doworks.com)  
