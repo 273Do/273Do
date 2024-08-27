@@ -4,6 +4,48 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️
 
+<!--<div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=f7df1c" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=007ACC" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=3776AB" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?style=flat&logo=PHP&logoColor=777BB4" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus&logoColor=00599C" />
+  <img alt="Shell Script" src="https://img.shields.io/badge/-Shell%20Script-000?style=flat&logo=gnubash&logoColor=4EAA25" />
+
+  <img alt="React" src="https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=45b8d8" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=ffffff" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=764ABC" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel&logoColor=FF2D20" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass&logoColor=CC6699" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000?style=flat&logo=shadcnui&logoColor=ffffff" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-000?style=flat&logo=framer&logoColor=0055FF" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000?style=flat&logo=Expo&logoColor=ffffff" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000?style=flat&logo=Prisma&logoColor=ffffff" />
+  <img alt="SWR" src="https://img.shields.io/badge/-SWR-000?style=flat&logo=SWR&logoColor=ffffff" />
+  <img alt="i18next" src="https://img.shields.io/badge/-i18next-000?style=flat&logo=i18next&logoColor=26A69A" />
+
+  <img alt="npm" src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=CB3837" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000?style=flat&logo=Yarn&logoColor=2C8EBB" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=ffffff" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=43853d" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=GoogleColab&logoColor=F9AB00" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-000?style=flat&logo=Arduino&logoColor=00878F" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=46a2f1" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?style=flat&logo=AmazonWebServices&logoColor=ffffff" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat&logo=Git&logoColor=F05032" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-000?style=flat&logo=Prettier&logoColor=F7B93E" />
+  <img alt="Latex" src="https://img.shields.io/badge/-Latex-000?style=flat&logo=Latex&logoColor=008080" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=flat&logo=Postman&logoColor=FF6C37" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-000?style=flat&logo=Adobe%20XD&logoColor=FF61F6" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
+  <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffffff" />
+</div>-->
+
+
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
