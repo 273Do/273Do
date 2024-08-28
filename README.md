@@ -29,7 +29,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 
   <img alt="npm" src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=CB3837" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000?style=flat&logo=Yarn&logoColor=2C8EBB" />
-  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=ffffff" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=fcf2e3" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=43853d" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
