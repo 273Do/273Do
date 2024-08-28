@@ -33,6 +33,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=43853d" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
+  <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome Extension-000?style=flat&logo=chromewebstore&logoColor=4285F4" />
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=GoogleColab&logoColor=F9AB00" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-000?style=flat&logo=Arduino&logoColor=00878F" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=46a2f1" />
