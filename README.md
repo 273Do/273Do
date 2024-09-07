@@ -17,6 +17,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="React" src="https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=45b8d8" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=ffffff" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=764ABC" />
+  <img alt="Remix" src="https://img.shields.io/badge/-Remix-000?style=flat&logo=remix&logoColor=ffffff" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel&logoColor=FF2D20" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass&logoColor=CC6699" />
@@ -97,7 +98,6 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 <div>
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxtdotjs&logoColor=00DC82" />
-<img alt="Remix" src="https://img.shields.io/badge/-Remix-000?style=flat&logo=remix&logoColor=ffffff" />
 </div>
 
 ## 🔗 Link
