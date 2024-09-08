@@ -106,6 +106,8 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 🎥 YouTube 👉 [https://www.youtube.com/@imperiRwrath](https://www.youtube.com/@imperiRwrath)
 
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=273Do)](https://github.com/ryo-ma/github-profile-trophy)-->
+
 <!--### ﾂﾅｻﾝﾄﾞが好きなので 273\*です🥪．
 
 > 映像🎥やwebツール🔮を作ってる関西の大学生です．  
