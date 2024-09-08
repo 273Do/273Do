@@ -22,6 +22,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass&logoColor=CC6699" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000?style=flat&logo=shadcnui&logoColor=ffffff" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-000?style=flat&logo=storybook&logoColor=FF4785" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-000?style=flat&logo=framer&logoColor=0055FF" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000?style=flat&logo=Expo&logoColor=ffffff" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000?style=flat&logo=Prisma&logoColor=ffffff" />
@@ -31,7 +32,6 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="npm" src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=CB3837" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000?style=flat&logo=Yarn&logoColor=2C8EBB" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=fcf2e3" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js&logoColor=43853d" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
   <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome Extension-000?style=flat&logo=chromewebstore&logoColor=4285F4" />
