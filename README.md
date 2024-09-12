@@ -99,6 +99,8 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxtdotjs&logoColor=00DC82" />
 <img alt="Astro" src="https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=BC52EE" />
+<img alt="Graphql" src="https://img.shields.io/badge/-Graphql-000?style=flat&logo=graphql&logoColor=E10098" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-000?style=flat&logo=apollographql&logoColor=311C87" />
 </div>
 
 ## 🔗 Link
