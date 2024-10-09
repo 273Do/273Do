@@ -19,6 +19,8 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=764ABC" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-000?style=flat&logo=remix&logoColor=ffffff" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel&logoColor=FF2D20" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-000?style=flat&logo=django&logoColor=092E20" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=FFFFFF" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass&logoColor=CC6699" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000?style=flat&logo=shadcnui&logoColor=ffffff" />
@@ -27,15 +29,13 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000?style=flat&logo=Expo&logoColor=ffffff" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000?style=flat&logo=Prisma&logoColor=ffffff" />
   <img alt="SWR" src="https://img.shields.io/badge/-SWR-000?style=flat&logo=SWR&logoColor=ffffff" />
-  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000?style=flat&logo=serverless&logoColor=FD5750" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-000?style=flat&logo=django&logoColor=092E20" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=FFFFFF" />
 
   <img alt="npm" src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=CB3837" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000?style=flat&logo=Yarn&logoColor=2C8EBB" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=fcf2e3" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
+  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000?style=flat&logo=serverless&logoColor=FD5750" />
   <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome Extension-000?style=flat&logo=chromewebstore&logoColor=4285F4" />
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=GoogleColab&logoColor=F9AB00" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-000?style=flat&logo=Arduino&logoColor=00878F" />
