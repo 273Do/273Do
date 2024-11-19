@@ -98,12 +98,12 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />-->
 
 <div>
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+<!-- <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxtdotjs&logoColor=00DC82" />
 <img alt="Astro" src="https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=BC52EE" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql&logoColor=E10098" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-000?style=flat&logo=apollographql&logoColor=311C87" />
-<img alt="p5.js" src="https://img.shields.io/badge/-p5.js-000?style=flat&logo=p5dotjs&logoColor=ED225D" />
+<img alt="p5.js" src="https://img.shields.io/badge/-p5.js-000?style=flat&logo=p5dotjs&logoColor=ED225D" /> -->
 </div>
 
 ## 🔗 Link
