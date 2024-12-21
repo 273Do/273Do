@@ -34,6 +34,7 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000?style=flat&logo=Yarn&logoColor=2C8EBB" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000?style=flat&logo=Bun&logoColor=fcf2e3" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=flat&logo=Supabase&logoColor=3FCF8E" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=Firebase&logoColor=DD2C00" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel&logoColor=ffffff" />
   <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000?style=flat&logo=serverless&logoColor=FD5750" />
   <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome Extension-000?style=flat&logo=chromewebstore&logoColor=4285F4" />
@@ -48,6 +49,8 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-000?style=flat&logo=Adobe%20XD&logoColor=FF61F6" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=Notion&logoColor=ffffff" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-000?style=flat&logo=Obsidian&logoColor=7C3AED" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffdd33" />
 </div>
 
@@ -93,8 +96,9 @@ I'm 273*(tsuna-sando) and I like Tuna Sands 🥪. I'm a university student in Ka
   <img
 </div>-->
   
+<!--
 ✍ Leaning  
-<!--<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />-->
 
 <div>
