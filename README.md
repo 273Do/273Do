@@ -1,10 +1,10 @@
-## 👋 Hey There!
+## 👋 Hi There!
 
 I'm 273*(tuna-sand) and I like Tuna Sands 🥪. I'm a university student in Kansai who makes videos 🎥 and web apps/tools 🔮. My hobbies are full-stack development 🚩, piano 🎹 and cycling 🚲. I would be happy if we could get along!☺️  
 <!--ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️-->
 
-## 🧰 Languages and Tools
+## 🧰 Technologies
 
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=f7df1c" />
@@ -109,11 +109,12 @@ I'm 273*(tuna-sand) and I like Tuna Sands 🥪. I'm a university student in Kans
 <img alt="p5.js" src="https://img.shields.io/badge/-p5.js-000?style=flat&logo=p5dotjs&logoColor=ED225D" /> -->
 </div>
 
+<!--
 ## 🔗 Link
 📇 Portfolio 👉 [https://www.273doworks.com](https://www.273doworks.com)  
 📗 Qiita 👉 [https://qiita.com/273Do](https://qiita.com/273Do)  
 🎥 YouTube 👉 [https://www.youtube.com/@imperiRwrath](https://www.youtube.com/@imperiRwrath)
-
+-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=273Do)](https://github.com/ryo-ma/github-profile-trophy)-->
 
