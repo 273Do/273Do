@@ -43,15 +43,13 @@ I'm 273*(tuna-sand) and I like Tuna Sands. I'm a university student in Kansai wh
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=46a2f1" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?style=flat&logo=AmazonWebServices&logoColor=ffffff" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat&logo=Git&logoColor=F05032" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-000?style=flat&logo=Prettier&logoColor=F7B93E" />
-  <img alt="Latex" src="https://img.shields.io/badge/-Latex-000?style=flat&logo=Latex&logoColor=008080" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode&logoColor=147EFB" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-000?style=flat&logo=Xcode&logoColor=147EFB" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=flat&logo=Postman&logoColor=FF6C37" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-000?style=flat&logo=Adobe%20XD&logoColor=FF61F6" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=Notion&logoColor=ffffff" />
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-000?style=flat&logo=Obsidian&logoColor=7C3AED" />
-  <img alt="Miro" src="https://img.shields.io/badge/-Miro-000?style=flat&logo=Miro&logoColor=ffdd33" />
 </div>
 
 <!--<div>
