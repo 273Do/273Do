@@ -99,6 +99,7 @@ I'm 273*(tuna-sand) and I like Tuna Sands. I'm a university student in Kansai wh
 
 ✍ Leaning  
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron&logoColor=47848F" />
+<img alt="Podman" src="https://img.shields.io/badge/-Podman-000?style=flat-square&logo=podman&logoColor=892CA0" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-000?style=flat-square&logo=go&logoColor=00ADD8" />
 <img alt="Gin" src="https://img.shields.io/badge/-Gin-000?style=flat-square&logo=gin&logoColor=fff" />
 <div>
