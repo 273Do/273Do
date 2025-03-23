@@ -43,8 +43,6 @@ I'm 273*(tuna-sand) and I like Tuna Sands. I'm a university student in Kansai wh
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=46a2f1" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?style=flat&logo=AmazonWebServices&logoColor=ffffff" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat&logo=Git&logoColor=F05032" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode&logoColor=147EFB" />
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-000?style=flat&logo=Xcode&logoColor=147EFB" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=flat&logo=Postman&logoColor=FF6C37" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma&logoColor=F24E1E" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
