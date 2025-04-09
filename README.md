@@ -1,6 +1,6 @@
 ## 👋 Hi There!
 
-I'm 273*(tuna-sand) and I like Tuna Sands. I'm a university student in Kansai who makes videos and web apps/tools. My hobbies are full-stack development, piano and cycling. I would be happy if we could get along! 
+I'm 273*(tuna-sand) and I like Tuna Sands. I want to develop.
 <!--ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️-->
 
