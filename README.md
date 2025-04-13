@@ -1,10 +1,10 @@
 ## 👋 Hi There!
 
-I'm 273*(tuna-sand) and I like Tuna Sands. Tech Junker.
+I'm 273*(tuna-sand🥪). I want to be Tech Junkie.
 <!--ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️-->
 
-## 🧰 Technologies
+<!--## 🧰 Technologies
 
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=f7df1c" />
@@ -48,7 +48,7 @@ I'm 273*(tuna-sand) and I like Tuna Sands. Tech Junker.
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-000?style=flat&logo=Blender&logoColor=E87D0D" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=Notion&logoColor=ffffff" />
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-000?style=flat&logo=Obsidian&logoColor=7C3AED" />
-</div>
+</div>-->
 
 <!--<div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -93,20 +93,20 @@ I'm 273*(tuna-sand) and I like Tuna Sands. Tech Junker.
 </div>-->
   
 
-✍ Leaning  
+<!-- ✍ Leaning  
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron&logoColor=47848F" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-000?style=flat-square&logo=go&logoColor=00ADD8" />
 <img alt="Gin" src="https://img.shields.io/badge/-Gin-000?style=flat-square&logo=gin&logoColor=fff" />
 <div>
-<!-- 
+
 <img alt="Podman" src="https://img.shields.io/badge/-Podman-000?style=flat-square&logo=podman&logoColor=892CA0" /> 
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=4FC08D" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxtdotjs&logoColor=00DC82" />
 <img alt="Astro" src="https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=BC52EE" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql&logoColor=E10098" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-000?style=flat&logo=apollographql&logoColor=311C87" />
-<img alt="p5.js" src="https://img.shields.io/badge/-p5.js-000?style=flat&logo=p5dotjs&logoColor=ED225D" /> -->
-</div>
+<img alt="p5.js" src="https://img.shields.io/badge/-p5.js-000?style=flat&logo=p5dotjs&logoColor=ED225D" />
+</div>-->
 
 <!--
 ## 🔗 Link
