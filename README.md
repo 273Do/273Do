@@ -2,7 +2,7 @@
 
 I'm 273*(tuna-sand🥪). I want to be Tech Junkie.
 
-<a href="https://273doworks.com" target="_blank"><img style="border-radius: 30px;" alt="pf" src="https://github.com/user-attachments/assets/1ce6f72c-5714-40a3-bafa-2cd7b4dce19a" /></a>
+<!--<a href="https://273doworks.com" target="_blank"><img style="border-radius: 30px;" alt="pf" src="https://github.com/user-attachments/assets/1ce6f72c-5714-40a3-bafa-2cd7b4dce19a" /></a>
 
 <!--ﾂﾅｻﾝﾄﾞが好きな273\*と申します🥪．
 映像🎥やwebアプリ/ツール🔮を作ってる関西の大学生です．  趣味はフルスタック開発🚩とピアノ🎹とサイクリング🚲． 仲良くしてくれたら嬉しい!☺️-->
