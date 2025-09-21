@@ -1,4 +1,4 @@
-273* = developer + visual & digital artist + omnivorous creative
+273* = develop + visual & digital art + omnivorous creative
 
 <!--<a href="https://273doworks.com" target="_blank"><img style="border-radius: 30px;" alt="pf" src="https://github.com/user-attachments/assets/1ce6f72c-5714-40a3-bafa-2cd7b4dce19a" /></a>
 
