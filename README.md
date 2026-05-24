@@ -3,17 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2026 - To: 21 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-Total Time: 26 hrs 47 mins
+Total Time: 20 hrs 44 mins
 
-TypeScript   26 hrs 23 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   98.52 %
-YAML         16 mins               -------------------------   01.05 %
-Markdown     3 mins                -------------------------   00.20 %
-Swift        2 mins                -------------------------   00.13 %
-SQL          1 min                 -------------------------   00.08 %
-Python       0 secs                -------------------------   00.01 %
-JavaScript   0 secs                -------------------------   00.00 %
+TypeScript   20 hrs 7 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.02 %
+YAML         24 mins               -------------------------   01.94 %
+JavaScript   7 mins                -------------------------   00.62 %
+Markdown     3 mins                -------------------------   00.26 %
+Swift        2 mins                -------------------------   00.16 %
 JSON         0 secs                -------------------------   00.00 %
 ```
 
