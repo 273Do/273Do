@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-Total Time: 18 hrs 36 mins
+Total Time: 19 hrs 40 mins
 
-TypeScript    17 hrs 35 mins        >>>>>>>>>>>>>>>>>>>>>>>>-   94.54 %
-YAML          24 mins               >------------------------   02.16 %
-Python        14 mins               -------------------------   01.34 %
-JavaScript    8 mins                -------------------------   00.79 %
-Markdown      6 mins                -------------------------   00.60 %
-JSON          3 mins                -------------------------   00.36 %
+TypeScript    16 hrs 15 mins        >>>>>>>>>>>>>>>>>>>>>----   82.63 %
+GLSL          2 hrs 23 mins         >>>----------------------   12.16 %
+YAML          24 mins               >------------------------   02.04 %
+Python        14 mins               -------------------------   01.26 %
+JavaScript    8 mins                -------------------------   00.75 %
+Markdown      6 mins                -------------------------   00.56 %
+JSON          4 mins                -------------------------   00.37 %
 Swift         2 mins                -------------------------   00.18 %
-Image (svg)   0 secs                -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
