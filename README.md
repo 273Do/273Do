@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 11 hrs 9 mins
+Total Time: 16 hrs 27 mins
 
-TypeScript     4 hrs 22 mins         >>>>>>>>>>---------------   39.26 %
-Astro          3 hrs 28 mins         >>>>>>>>-----------------   31.09 %
-JSON           1 hr 11 mins          >>>----------------------   10.70 %
-YAML           42 mins               >>-----------------------   06.41 %
-JavaScript     29 mins               >------------------------   04.43 %
-CSS            19 mins               >------------------------   02.94 %
-shell script   18 mins               >------------------------   02.77 %
-Markdown       8 mins                -------------------------   01.31 %
+TypeScript     4 hrs 25 mins         >>>>>>>------------------   26.89 %
+Vue            2 hrs 55 mins         >>>>---------------------   17.73 %
+Astro          2 hrs 47 mins         >>>>---------------------   16.99 %
+JSON           1 hr 34 mins          >>-----------------------   09.53 %
+Markdown       1 hr 33 mins          >>-----------------------   09.52 %
+CSS            1 hr 10 mins          >>-----------------------   07.11 %
+YAML           58 mins               >------------------------   05.95 %
+JavaScript     28 mins               >------------------------   02.91 %
 ```
 
 <!--END_SECTION:waka-->
