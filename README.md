@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Total Time: 3 hrs 54 mins
+Total Time: 4 hrs 48 mins
 
-TypeScript   1 hr 34 mins          >>>>>>>>>>---------------   40.37 %
-Rust         1 hr 22 mins          >>>>>>>>>----------------   35.31 %
-Python       17 mins               >>-----------------------   07.56 %
-Docker       8 mins                >------------------------   03.57 %
-JSON         7 mins                >------------------------   03.30 %
-Markdown     6 mins                >------------------------   02.87 %
-TOML         4 mins                -------------------------   01.77 %
+TypeScript   1 hr 45 mins          >>>>>>>>>----------------   36.75 %
+Rust         1 hr 22 mins          >>>>>>>------------------   28.77 %
+Python       17 mins               >>-----------------------   06.16 %
+Astro        14 mins               >------------------------   05.17 %
+JSON         12 mins               >------------------------   04.51 %
+CSS          11 mins               >------------------------   04.10 %
+Docker       8 mins                >------------------------   02.91 %
 ```
 
 <!--END_SECTION:waka-->
