@@ -3,16 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2026 - To: 08 November 2026
+From: 02 November 2026 - To: 09 November 2026
 
-Total Time: 36 mins
+Total Time: 43 mins
 
-Rust         19 mins               >>>>>>>>>>>>>------------   53.17 %
-Astro        11 mins               >>>>>>>>-----------------   31.02 %
-TypeScript   3 mins                >>>----------------------   10.04 %
-JSON         1 min                 >------------------------   05.26 %
-JavaScript   0 secs                -------------------------   00.46 %
-CSS          0 secs                -------------------------   00.05 %
+Rust         19 mins               >>>>>>>>>>>--------------   45.12 %
+Astro        11 mins               >>>>>>-------------------   25.91 %
+jsonc        5 mins                >>>----------------------   13.70 %
+TypeScript   3 mins                >>-----------------------   08.39 %
+JSON         2 mins                >------------------------   05.77 %
+TOML         0 secs                -------------------------   00.69 %
+JavaScript   0 secs                -------------------------   00.38 %
+CSS          0 secs                -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
